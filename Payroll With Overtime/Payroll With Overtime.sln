@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll With Overtime", "Payroll With Overtime\Payroll With Overtime.csproj", "{254003A5-1F2B-4020-99E8-420D4D23312E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254003A5-1F2B-4020-99E8-420D4D23312E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254003A5-1F2B-4020-99E8-420D4D23312E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254003A5-1F2B-4020-99E8-420D4D23312E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254003A5-1F2B-4020-99E8-420D4D23312E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A8C1BC-B70E-454B-AFD3-8435278868F7}
+	EndGlobalSection
+EndGlobal
